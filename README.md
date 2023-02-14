@@ -15,4 +15,4 @@
   <img alt="terminal" src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
-<img src="https://komarev.com/ghpvc/?username=DavinGarozzo" alt="https://github.com/DavinGarozzo" />
+<p align="center"><img align="left" height="380px" alt="web-developer" src="https://lirp.cdn-website.com/f7363214/dms3rep/multi/opt/sviluppatore-web-web-developer-1920w.jpeg" /><img alt="GitHub Stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavinGarozzo&theme=radical&layout=compact&hide_border=enabled"/><img alt="GitHub stats" height="200px" width="425px" src="https://github-readme-stats.vercel.app/api?username=DavinGarozzo&show_icons=true&theme=radical&hide_border=enabled"/></p>
