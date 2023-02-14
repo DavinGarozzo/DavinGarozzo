@@ -15,3 +15,4 @@
   <img alt="terminal" src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+<img src="https://komarev.com/ghpvc/?username=DavinGarozzo" alt="https://github.com/DavinGarozzo" />
